@@ -1,7 +1,14 @@
 <h1 align="center">Welcome/مرحباً/Bienvenue, I'm MEDLAO</h1>
 <h3 align="center">A passionate backend developer from France.</h3>
 
-- 🔭 I’m currently working on [a price comparison website](https://github.com/MEDLAO/Price-Comparison-Website-Django)
+I enjoy travelling, reading and learning.
+
+Before starting programming, I studied mathematics, philosophy and Arabic language.
+
+I am aiming to use these skills in my coding projects and take different approaches to solve problems.
+
+
+- 🔭 I’m currently working on a [price comparison website](https://github.com/MEDLAO/Price-Comparison-Website-Django)
 
 - 🌱 I’m currently learning **C++ and Machine learning**
 
