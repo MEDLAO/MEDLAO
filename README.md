@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Welcome/مرحباً/Bienvenue, I'm MEDLAO</h1>
 <h3 align="center">A passionate backend developer from France.</h3>
 
