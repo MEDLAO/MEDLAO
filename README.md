@@ -1,4 +1,4 @@
-<h1 align="center">Welcome/مرحباً/Bienvenue ! I'm MEDLAO</h1>
+<h1 align="center">Welcome - مرحباً - Bienvenue ! I'm MEDLAO</h1>
 <h3 align="center">A passionate backend developer from France.</h3>
 
 I enjoy travelling, reading and learning.
