@@ -12,7 +12,7 @@ These skills help me in my coding projects, especially to address a problem in d
 
 - 🌱 I’m currently learning **C++ and Machine learning**
 
-- 📫 How to reach me **medlao@gmail.com**
+- 📫 How to reach me **medlao.contact@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
