@@ -5,7 +5,7 @@ I enjoy travelling, reading and learning.
 
 Before starting programming, I studied mathematics, philosophy and Arabic language.
 
-These skills help me in my coding projects, especially to address a problem in different ways.
+These experiences help me in my coding projects, especially to address a problem in different ways.
 
 
 - 🔭 I’m currently working on a [price comparison website](https://github.com/MEDLAO/Price-Comparison-Website-Django)
